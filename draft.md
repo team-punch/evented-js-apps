@@ -35,3 +35,9 @@ The above example means that:
 * You can tell what the method does by its name.
 * You don’t need to learn new stupid concepts. If it weren’t for the fact they’re comprehension workarounds, learning new stuff is generally a worthwhile endeavor.
 * More importantly: **it’s all just functions**. If you stick to passing simple data structures around, testing this code is cake. But we’ll get to that further below.
+
+## The data layer case
+
+## Testing this stuff
+
+## Comparisons
